@@ -1,2 +1,0 @@
-# Calculadora
-Calculadora em Python
